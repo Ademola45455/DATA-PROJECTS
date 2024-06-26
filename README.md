@@ -10,9 +10,7 @@
 
 ### Project Overview
 
-This project demonstrates my work on a company database, utilizing SQL for various data operations and analysis. The primary objective was to manage and analyze the company's data efficiently, ensuring data integrity, optimizing queries, and providing actionable insights.
-
-
+This project demonstrates my work on a company database, utilizing SQL for various data operations and analysis. The primary objective was to efficiently manage and analyze the company's data, ensuring data integrity, optimizing queries, and providing actionable insights.
 
 ### Tools
 
@@ -21,8 +19,6 @@ This project demonstrates my work on a company database, utilizing SQL for vario
 
   ### Exploratory Data Analysis
   
-  
-
   EDA involved exploring the database to answer key questions, such as:
   - What is the total employees in the company?
   - Top highest paid employees?
