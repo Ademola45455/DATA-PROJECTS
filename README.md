@@ -60,6 +60,64 @@ This project showcases my ability to design, manage, and analyze employee data u
 
 
 
+# Car Sales Analysis
+***
+![](https://github.com/Ademola45455/DATA-PROJECTS/blob/main/INTRO.jfif)
+***
+## Objective:
+This project aims to design and develop a dynamic and interactive Car Sales Dashboard using Power BI. The dashboard visualizes critical KPIs related to  car sales, helping  understand sales performance over time and make data-driven decisions.
+
+****Disclaimer_****: All datasets and reports do not represent a company, institution, or country, but just a dummy dataset to demonstrate the capabilities of _PowerBi
+
+## Problem Statement 1: KPI’s Requirement :
+1.	Sales Overview :
+.	Year-to-Date (YTD) Total Sales
+•	Month-to-Date (MTD) Total Sales
+•	Year-over-Year (YOY) Growth in Total Sales
+•	Difference between YTD Sales and Previous Year-to-Date (PTYD) Sales
+
+
+2.	Average Price Analysis :	
+.	YTD Average Price
+•	MTD Average Price
+•	YOY Growth in Average Price
+•	Difference between YTD Average Price and PTYD Average Price
+
+3.	Cars Sold Metrics :
+•	YTD Cars Sold
+•	MTD Cars Sold
+•	YOY Growth in Cars Sold
+•	Difference between YTD Cars Sold and PTYD Cars Sold
+
+
+## Problem Statement 2: Charts Requirement :
+1.	YTD Sales Weekly Trend
+2.	YTD Total Sales by Body Style
+3.	YTD Total Sales by Color
+4.	YTD Cars Sold by Dealer Region
+5.	Company-Wise Sales Trend in Grid Form
+6.	Details Grid Showing All Car Sales Information
+
+Skills / Coneepts Demonstrated :
+The following PowerBi features were incorporated :
+- Bookmarking
+- DAX
+- Filters
+- Page navigation
+- Modelling
+- Quick Meaures
+
+## Modelling
+The dimension tables were all joined to the fact table with a many-to-one relationship.
+  
+
+   
+
+
+
+
+
+
 
 
 
