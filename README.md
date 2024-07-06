@@ -124,10 +124,25 @@ YTD sales for each car was 28k and were reduced compared to last year by 220$ wi
 There was a significant growth in the YTD Cars sold
 
 
+# Call Center Analysis
+***
+![](https://github.com/Ademola45455/DATA-PROJECTS/blob/main/calll.jfif)
+***
+## Objective:
+To provide comprehensive insights into call center operations by analyzing key metrics. This analysis aims to help call center management identify trends, optimize resource allocation, improve customer service efficiency, and make data-driven decisions.
+
+   ## Problem Statement 
+   - Total calls by Reason
+   - Total calls by Sentiment
+   - Total calls by State
+   - Total calls by Calls_Centres
 
 
 
-   
+
+
+
+
 
 
 
