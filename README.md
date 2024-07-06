@@ -110,7 +110,7 @@ The following PowerBi features were incorporated :
 - YTD, MTD, PYTD
 
 ## Modelling
-The dimension tables were all joined to the fact table with a many-to-one relationship.
+The dimension tables joined the fact table with a many-to-one relationship.
 
 Model Used :
 
@@ -137,18 +137,29 @@ To provide comprehensive insights into call center operations by analyzing key m
    - Total calls by State
    - Total calls by Calls_Centres
 
+     
 
 
+Skills / Concepts Demonstrated :
+The following PowerBi features were incorporated :
+- Bookmarking
+- DAX
+- Date Fxn
+- Custom Charts
+- SUM/SUMX
+- Page navigation
+- Time Intelligence Fxn
+- Modelling
+- Navigations
 
 
+You can interact with the report here (https://app.powerbi.com/groups/75189acb-9b13-476a-8c6b-283daf4d96bc/reports/6b3af657-224f-4262-bf13-8a172b87507b/ReportSection?experience=power-bi&clientSideAuth=0)
+![](https://app.powerbi.com/groups/75189acb-9b13-476a-8c6b-283daf4d96bc/reports/9f9c7ccd-be49-491b-9e78-21b0e9db8267/ReportSection?experience=power-bi)
 
 
-
-
-
-
-
-
+Conclusion / Recommendations :
+Los Angeles had the highest calls
+Denver recorded the lowest calls
 
 
 
