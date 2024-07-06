@@ -116,6 +116,17 @@ Model Used :
 
 ![](https://github.com/Ademola45455/DATA-PROJECTS/blob/main/modelling.png)
 
+You can interact with the report here (https://app.powerbi.com/groups/75189acb-9b13-476a-8c6b-283daf4d96bc/reports/6b3af657-224f-4262-bf13-8a172b87507b/ReportSection?experience=power-bi&clientSideAuth=0)
+
+Conclusion / Recommendations :
+YTD Sales are growing with a growth rate of 23.59%
+YTD sales for each car was 28k and were reduced compared to last year by 220$ with MTD Avg Price of 28.6k$ 
+There was a significant growth in the YTD Cars sold
+
+
+
+
+
    
 
 
