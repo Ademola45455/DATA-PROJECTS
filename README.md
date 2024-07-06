@@ -73,7 +73,7 @@ This project aims to design and develop a dynamic and interactive Car Sales Dash
 1.	Sales Overview :
 .	Year-to-Date (YTD) Total Sales
 •	Month-to-Date (MTD) Total Sales
-•	Year-over-Year (YOY) Growth in Total Sales
+•	Year-over-year (YOY) Growth in Total Sales
 •	Difference between YTD Sales and Previous Year-to-Date (PTYD) Sales
 
 
@@ -98,18 +98,23 @@ This project aims to design and develop a dynamic and interactive Car Sales Dash
 5.	Company-Wise Sales Trend in Grid Form
 6.	Details Grid Showing All Car Sales Information
 
-Skills / Coneepts Demonstrated :
+Skills / Concepts Demonstrated :
 The following PowerBi features were incorporated :
 - Bookmarking
 - DAX
-- Filters
+- Formatting Visuals
 - Page navigation
+- Time Intelligence Fxn
 - Modelling
-- Quick Meaures
+- Quick Measures
+- YTD, MTD, PYTD
 
 ## Modelling
 The dimension tables were all joined to the fact table with a many-to-one relationship.
-  
+
+Model Used :
+
+![](https://github.com/Ademola45455/DATA-PROJECTS/blob/main/modelling.png)
 
    
 
