@@ -160,6 +160,47 @@ You can interact with the report here (https://app.powerbi.com/groups/75189acb-9
 Conclusion / Recommendations :
 Los Angeles had the highest calls
 Denver recorded the lowest calls
+***
+# Road Accident Analysis
+
+![](https://github.com/Ademola45455/DATA-PROJECTS/blob/main/road%20accident.jfif)
+***
+## Objective:
+To provide detailed insights into road accidents by analyzing important key metrics. This analysis aims to support road safety initiatives, inform policy decisions, and enhance public awareness by identifying trends and risk factors associated with road accidents.
+
+   ## Problem Statement 
+   - Total Accidebts and Casaulties by location
+   - CY Fatal Casaulties by Road type for Current year
+   - CY Casaulties by Area / Location & by Day / Night
+   - Monthly Trend showing comparison for Current year and Previous year
+
+     
+
+
+Skills / Concepts Demonstrated :
+The following PowerBi features were incorporated :
+- DAX
+- Filters and Slicers
+- Custom Charts
+- Power Query
+- Time Intelligence Fxn
+- Modelling
+
+## Modelling
+The dimension tables joined the fact table with a many-to-one relationship.
+
+Model Used :
+
+![](https://github.com/Ademola45455/DATA-PROJECTS/blob/main/road%20accident%20modelling%20.png)
+***
+
+
+You can interact with the report here (https://app.powerbi.com/groups/75189acb-9b13-476a-8c6b-283daf4d96bc/reports/e5db7c8f-87b7-4d7d-94db-1720d27eb8f4/ReportSection?experience=power-bi&clientSideAuth=0)
+![](https://app.powerbi.com/groups/75189acb-9b13-476a-8c6b-283daf4d96bc/reports/9f9c7ccd-be49-491b-9e78-21b0e9db8267/ReportSection?experience=power-bi)
+
+
+
+
 
 
 
