@@ -116,7 +116,7 @@ Model Used :
 
 ![](https://github.com/Ademola45455/DATA-PROJECTS/blob/main/modelling.png)
 
-You can interact with the report here (https://app.powerbi.com/groups/75189acb-9b13-476a-8c6b-283daf4d96bc/reports/6b3af657-224f-4262-bf13-8a172b87507b/ReportSection?experience=power-bi&clientSideAuth=0)
+You can interact with the report [here] (https://app.powerbi.com/groups/75189acb-9b13-476a-8c6b-283daf4d96bc/reports/6b3af657-224f-4262-bf13-8a172b87507b/ReportSection?experience=power-bi&clientSideAuth=0)
 
 Conclusion / Recommendations :
 YTD Sales are growing with a growth rate of 23.59%
@@ -153,7 +153,7 @@ The following PowerBi features were incorporated :
 - Navigations
 
 
-You can interact with the report here (https://app.powerbi.com/groups/75189acb-9b13-476a-8c6b-283daf4d96bc/reports/6b3af657-224f-4262-bf13-8a172b87507b/ReportSection?experience=power-bi&clientSideAuth=0)
+You can interact with the report [here] (https://app.powerbi.com/groups/75189acb-9b13-476a-8c6b-283daf4d96bc/reports/6b3af657-224f-4262-bf13-8a172b87507b/ReportSection?experience=power-bi&clientSideAuth=0)
 ![](https://app.powerbi.com/groups/75189acb-9b13-476a-8c6b-283daf4d96bc/reports/9f9c7ccd-be49-491b-9e78-21b0e9db8267/ReportSection?experience=power-bi)
 
 
@@ -195,12 +195,48 @@ Model Used :
 ***
 
 
-You can interact with the report here (https://app.powerbi.com/groups/75189acb-9b13-476a-8c6b-283daf4d96bc/reports/e5db7c8f-87b7-4d7d-94db-1720d27eb8f4/ReportSection?experience=power-bi&clientSideAuth=0)
+You can interact with the report [here] (https://app.powerbi.com/groups/75189acb-9b13-476a-8c6b-283daf4d96bc/reports/e5db7c8f-87b7-4d7d-94db-1720d27eb8f4/ReportSection?experience=power-bi&clientSideAuth=0)
 ![](https://app.powerbi.com/groups/75189acb-9b13-476a-8c6b-283daf4d96bc/reports/9f9c7ccd-be49-491b-9e78-21b0e9db8267/ReportSection?experience=power-bi)
 
 
 
 
+# Electric Vehicle Analysis
+
+![](https://github.com/Ademola45455/DATA-PROJECTS/blob/main/electric%20car%20iamge.png)
+***
+## Objective:
+To provide detailed insights into electric vehicle adoption and performance by analyzing key metrics. This analysis aims to analyze the technological advancements and efficiency of electric vehicles by determining the average electric range, identifying and comparing the prevalence of Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs), and assessing BEV dominance in the dataset.
+
+   ## Problem Statement 
+   - Determine the average electric range of the electric vehicles to gauge the technological advancements and efficiency of the EVs.
+   - Identify and analyze the total number of Battery Electric Vehicles (BEVs) in the dataset.
+   - The percentage of BEVs relative to the total number of electric vehicles, providing insights into the dominance of fully electric models.
+   - Identify and analyze the total number of Plug-in Hybrid Electric Vehicles (PHEVs) in the dataset.
+
+
+Skills / Concepts Demonstrated :
+The following PowerBi features were incorporated :
+- DAX
+- Statistical analysis
+- Data cleaning and transformation
+- Power Query
+- Time Intelligence Fxn
+- Modelling
+- Trend analysis
+
+
+## Modelling
+The dimension tables joined the fact table with a one-to-one relationship.
+
+Model Used :
+
+![](https://github.com/Ademola45455/DATA-PROJECTS/blob/main/electric%20modelling.png)
+***
+
+
+You can interact with the report [here] (https://app.powerbi.com/groups/75189acb-9b13-476a-8c6b-283daf4d96bc/reports/a43b8408-0c15-4835-8ae3-624412bb7333/ReportSection?experience=power-bi)
+![](https://app.powerbi.com/groups/75189acb-9b13-476a-8c6b-283daf4d96bc/reports/9f9c7ccd-be49-491b-9e78-21b0e9db8267/ReportSection?experience=power-bi)
 
 
 
