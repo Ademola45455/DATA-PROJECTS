@@ -1,6 +1,6 @@
-## COMPANY DATABASE ANALYSIS
+## ADEMOLA'S PROJECTS ON DATA ANALYSIS
 ## Table of Contents
-
+- [SQL]
 - [Project Overview](#project-overview)
 - [Tools](tools)
 - [Exploratory Data Analysis](exploratory-data-analysis)
@@ -8,7 +8,7 @@
 - [Summary](summary)
 - [References](references)
 
-### Project Overview
+### Project Overview (SQL)
 
 This project demonstrates my work on a company database, utilizing SQL for various data operations and analysis. The primary objective was to efficiently manage and analyze the company's data, ensuring data integrity, optimizing queries, and providing actionable insights.
 
