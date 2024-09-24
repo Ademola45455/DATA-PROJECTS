@@ -111,6 +111,9 @@ iii.	Cars Sold Metrics :
 5.	Company-Wise Sales Trend in Grid Form
 6.	Details Grid Showing All Car Sales Information
 
+   
+![CAR ](https://github.com/user-attachments/assets/32f40bec-1bb7-407e-804e-372ffc167bd5)
+
 Skills / Concepts Demonstrated :
 The following PowerBi features were incorporated :
 - Bookmarking
@@ -140,7 +143,7 @@ There was a significant growth in the YTD Cars sold
 I had to remove all zero values from my data columns they would have affected the accuracy of my conclusion from the analysis.
 
 
-# Call Center Analysis
+## Call Center Analysis
 ***
 ![](https://github.com/Ademola45455/DATA-PROJECTS/blob/main/calll.jfif)
 ***
@@ -152,8 +155,6 @@ To provide comprehensive insights into call center operations by analyzing key m
    - Total calls by Sentiment
    - Total calls by State
    - Total calls by Calls_Centres
-
-     
 
 
 Skills / Concepts Demonstrated :
@@ -169,7 +170,9 @@ The following PowerBi features were incorporated :
 - Navigations
 
 
-You can interact with the report [here] (https://app.powerbi.com/groups/75189acb-9b13-476a-8c6b-283daf4d96bc/reports/6b3af657-224f-4262-bf13-8a172b87507b/ReportSection?experience=power-bi&clientSideAuth=0)
+![CALL CENTER](https://github.com/user-attachments/assets/fa8fcd20-f4b8-451f-8d39-fc051e51da22)
+
+You can also interact with the report [here] (https://app.powerbi.com/groups/75189acb-9b13-476a-8c6b-283daf4d96bc/reports/6b3af657-224f-4262-bf13-8a172b87507b/ReportSection?experience=power-bi&clientSideAuth=0)
 ![](https://app.powerbi.com/groups/75189acb-9b13-476a-8c6b-283daf4d96bc/reports/9f9c7ccd-be49-491b-9e78-21b0e9db8267/ReportSection?experience=power-bi)
 
 
@@ -177,7 +180,8 @@ Conclusion / Recommendations :
 Los Angeles had the highest calls
 Denver recorded the lowest calls
 ***
-# Road Accident Analysis
+
+## Road Accident Analysis
 
 ![](https://github.com/Ademola45455/DATA-PROJECTS/blob/main/road%20accident.jfif)
 ***
@@ -192,6 +196,7 @@ To provide detailed insights into road accidents by analyzing important key metr
 
      
 
+![ROAD ACCIDENT](https://github.com/user-attachments/assets/a44fc4fb-28c2-4efc-94a1-87b2804d737b)
 
 Skills / Concepts Demonstrated :
 The following PowerBi features were incorporated :
@@ -211,7 +216,7 @@ Model Used :
 ***
 
 
-You can interact with the report [here] (https://app.powerbi.com/groups/75189acb-9b13-476a-8c6b-283daf4d96bc/reports/e5db7c8f-87b7-4d7d-94db-1720d27eb8f4/ReportSection?experience=power-bi&clientSideAuth=0)
+You can also interact with the report [here] (https://app.powerbi.com/groups/75189acb-9b13-476a-8c6b-283daf4d96bc/reports/e5db7c8f-87b7-4d7d-94db-1720d27eb8f4/ReportSection?experience=power-bi&clientSideAuth=0)
 ![](https://app.powerbi.com/groups/75189acb-9b13-476a-8c6b-283daf4d96bc/reports/9f9c7ccd-be49-491b-9e78-21b0e9db8267/ReportSection?experience=power-bi)
 
 
@@ -242,6 +247,8 @@ The following PowerBi features were incorporated :
 - Trend analysis
 
 
+![ELECTRIC](https://github.com/user-attachments/assets/92ab1ee8-136a-4b6b-8b60-636c5b46bb33)
+
 ## Modelling
 The dimension tables joined the fact table with a one-to-one relationship.
 
@@ -251,7 +258,7 @@ Model Used :
 ***
 
 
-You can interact with the report [here] (https://app.powerbi.com/groups/75189acb-9b13-476a-8c6b-283daf4d96bc/reports/a43b8408-0c15-4835-8ae3-624412bb7333/ReportSection?experience=power-bi)
+You can also interact with the report [here] (https://app.powerbi.com/groups/75189acb-9b13-476a-8c6b-283daf4d96bc/reports/a43b8408-0c15-4835-8ae3-624412bb7333/ReportSection?experience=power-bi)
 ![](https://app.powerbi.com/groups/75189acb-9b13-476a-8c6b-283daf4d96bc/reports/9f9c7ccd-be49-491b-9e78-21b0e9db8267/ReportSection?experience=power-bi)
 
 
