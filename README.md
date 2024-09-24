@@ -67,23 +67,36 @@ This project showcases my ability to design, manage, and analyze employee data u
 ## Objective:
 This project aims to design and develop a dynamic and interactive Car Sales Dashboard using Power BI. The dashboard visualizes critical KPIs related to  car sales, helping  understand sales performance over time and make data-driven decisions.
 
-****Disclaimer_****: All datasets and reports do not represent a company, institution, or country, but just a dummy dataset to demonstrate the capabilities of _PowerBi
+#### Data Sources
 
-## Problem Statement 1: KPI’s Requirement :
-1.	Sales Overview :
+Car Sales Data: The primary dataset used for this analysis is in the "Car-Salesdata.xlsx" file, containing detailed information about each cars.
+
+ ### Tools
+- Excel - Data Cleaning
+  - [Download here](https://docs.google.com/spreadsheets/d/1UNvvsnQ136UyFt-L3lfDvOksTtUMm49n/edit?usp=drive_link&ouid=118278122332705089450&rtpof=true&sd=true)
+- PowerBi - Creating reports
+
+ ### Data Cleaning/Preparation:
+  In the initial data preparation phase, I performed the following tasks:
+  1. Data loading and inspection.
+  2. Handling missing values.
+  3. Data cleaning and formatting.
+
+ ## Problem Statement 1: KPI’s Requirement :
+i.	Sales Overview :
 .	Year-to-Date (YTD) Total Sales
 •	Month-to-Date (MTD) Total Sales
 •	Year-over-year (YOY) Growth in Total Sales
 •	Difference between YTD Sales and Previous Year-to-Date (PTYD) Sales
 
 
-2.	Average Price Analysis :	
+ii.	Average Price Analysis :	
 .	YTD Average Price
 •	MTD Average Price
 •	YOY Growth in Average Price
 •	Difference between YTD Average Price and PTYD Average Price
 
-3.	Cars Sold Metrics :
+iii.	Cars Sold Metrics :
 •	YTD Cars Sold
 •	MTD Cars Sold
 •	YOY Growth in Cars Sold
@@ -122,6 +135,9 @@ Conclusion / Recommendations :
 YTD Sales are growing with a growth rate of 23.59%
 YTD sales for each car was 28k and were reduced compared to last year by 220$ with MTD Avg Price of 28.6k$ 
 There was a significant growth in the YTD Cars sold
+
+### Limitations
+I had to remove all zero values from my data columns they would have affected the accuracy of my conclusion from the analysis.
 
 
 # Call Center Analysis
