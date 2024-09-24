@@ -73,7 +73,7 @@ Car Sales Data: The primary dataset used for this analysis is in the "Car-Salesd
 
  ### Tools
 - Excel - Data Cleaning
-  - [Download here](https://docs.google.com/spreadsheets/d/1UNvvsnQ136UyFt-L3lfDvOksTtUMm49n/edit?usp=drive_link&ouid=118278122332705089450&rtpof=true&sd=true)
+  - [Download here](https://docs.google.com/spreadsheets/d/1uNPGZN58_9hA1N50murs20e4zpQ6z-hx/edit?usp=drive_link&ouid=118278122332705089450&rtpof=true&sd=true)
 - PowerBi - Creating reports
 
  ### Data Cleaning/Preparation:
@@ -150,7 +150,9 @@ I had to remove all zero values from my data columns they would have affected th
 ## Objective:
 To provide comprehensive insights into call center operations by analyzing key metrics. This analysis aims to help call center management identify trends, optimize resource allocation, improve customer service efficiency, and make data-driven decisions.
 
-   ## Problem Statement 
+#### Data Source [download here](https://drive.google.com/file/d/15wcdUhtT0q7WfU84p2RVl_VPZTD36k_N/view?usp=drive_link)
+
+ ## Problem Statement 
    - Total calls by Reason
    - Total calls by Sentiment
    - Total calls by State
@@ -182,7 +184,7 @@ Denver recorded the lowest calls
 ***
 
 ## Road Accident Analysis
-
+---
 ![](https://github.com/Ademola45455/DATA-PROJECTS/blob/main/road%20accident.jfif)
 ***
 ## Objective:
@@ -223,7 +225,7 @@ You can also interact with the report [here] (https://app.powerbi.com/groups/751
 
 
 # Electric Vehicle Analysis
-
+---
 ![](https://github.com/Ademola45455/DATA-PROJECTS/blob/main/electric%20car%20iamge.png)
 ***
 ## Objective:
