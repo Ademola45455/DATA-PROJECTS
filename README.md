@@ -274,6 +274,13 @@ You can also interact with the report [here] (https://app.powerbi.com/groups/751
 ![](https://app.powerbi.com/groups/75189acb-9b13-476a-8c6b-283daf4d96bc/reports/9f9c7ccd-be49-491b-9e78-21b0e9db8267/ReportSection?experience=power-bi)
 
 
+## Certification
+- [Google Data Analytics Professional Certificate](https://coursera.org/share/a3ef072895884236164c64f185fb5ab4)
+### Contacts
+***
+- LinkedIn: [ademola](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BHVJYos61RnuSJT0ymkbrYQ%3D%3D)
+
+- Email: ademoljohnson50@gmail.com
 
     
 
