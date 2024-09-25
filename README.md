@@ -21,6 +21,7 @@ Thank you for visiting my portfolio, and I look forward to connecting with you! 
 - [References](references)
 - [Car Sales Analysis](Car-Sales-Analysis)
 - [Call Center Analysis](Call-Center-Analysis)
+- [Road Accident Analysis](Road-Accident-Analysis)
 
 ### Project Overview (SQL)
 
