@@ -1,6 +1,6 @@
 ## ADEMOLA'S PROJECTS ON DATA ANALYSIS
 ## Table of Contents
-- [SQL]
+- [Company Database](SQL)
 - [Project Overview](#project-overview)
 - [Tools](tools)
 - [Exploratory Data Analysis](exploratory-data-analysis)
