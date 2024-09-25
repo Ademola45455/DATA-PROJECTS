@@ -22,6 +22,7 @@ Thank you for visiting my portfolio, and I look forward to connecting with you! 
 - [Car Sales Analysis](Car-Sales-Analysis)
 - [Call Center Analysis](Call-Center-Analysis)
 - [Road Accident Analysis](Road-Accident-Analysis)
+- [Electric Vehicle Analysis](Electric-Vehicle-Analysis)
 
 ### Project Overview (SQL)
 
