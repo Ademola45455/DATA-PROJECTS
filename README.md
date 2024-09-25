@@ -13,12 +13,6 @@ Thank you for visiting my portfolio, and I look forward to connecting with you! 
 
 ## Table of Contents
 - [Company Database](SQL)
-- [Project Overview](#project-overview)
-- [Tools](tools)
-- [Exploratory Data Analysis](exploratory-data-analysis)
-- [Data Analysis](data-analysis)
-- [Summary](summary)
-- [References](references)
 - [Car Sales Analysis](Car-Sales-Analysis)
 - [Call Center Analysis](Call-Center-Analysis)
 - [Road Accident Analysis](Road-Accident-Analysis)
