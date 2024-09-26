@@ -60,6 +60,12 @@ SELECT
 FROM employeess;
 ```
 
+![Screenshot 2024-09-26 192208](https://github.com/user-attachments/assets/e6685b87-f8d3-485b-ab2d-38237970cb43)
+
+
+
+![Screenshot 2024-09-26 192026](https://github.com/user-attachments/assets/20cd7ede-ce84-42eb-bcb9-a0c52bd53418)
+
 ### Summary
 This project showcases my ability to design, manage, and analyze employee data using SQL. It demonstrates essential skills in database management, query optimization, and data analysis, resulting in actionable insights that support business decisions and HR strategies.
 
@@ -67,6 +73,7 @@ This project showcases my ability to design, manage, and analyze employee data u
 - SQL By Giraffe Academy
 - [freecode camp](freecodecamp.org)
 - [W3 Schools](https://www.w3schools.com/sql/sql_top.asp)
+
 
 
 
@@ -276,13 +283,16 @@ You can also interact with the report [here] (https://app.powerbi.com/groups/751
 
 ## Certification
 - [Google Data Analytics Professional Certificate](https://coursera.org/share/a3ef072895884236164c64f185fb5ab4)
+  
 ### Contacts
 ***
 - LinkedIn: [ademola](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BHVJYos61RnuSJT0ymkbrYQ%3D%3D)
 
-- Email: ademoljohnson50@gmail.com
+- Email: ademolajohnson50@gmail.com
 
-    
+  
+
+   
 
 
 
