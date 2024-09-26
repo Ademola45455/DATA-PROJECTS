@@ -17,6 +17,9 @@ Thank you for visiting my portfolio, and I look forward to connecting with you! 
 - [Call Center Analysis](Call-Center-Analysis)
 - [Road Accident Analysis](Road-Accident-Analysis)
 - [Electric Vehicle Analysis](Electric-Vehicle-Analysis)
+- [Certifications](Certifications)
+- [Contacts](Contacts)
+  
 
 ### Project Overview (SQL)
 
