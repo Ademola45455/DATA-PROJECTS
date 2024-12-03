@@ -14,6 +14,7 @@ Thank you for visiting my portfolio, and I look forward to connecting with you! 
 
 
 ## Table of Contents
+- [BlinkIT Grocery Data](Excel)
 - [Company Database](SQL)
 - [Car Sales Analysis](Car-Sales-Analysis)
 - [Call Center Analysis](Call-Center-Analysis)
@@ -21,9 +22,20 @@ Thank you for visiting my portfolio, and I look forward to connecting with you! 
 - [Electric Vehicle Analysis](Electric-Vehicle-Analysis)
 - [Certifications](Certifications)
 - [Contacts](Contacts)
+
+  
+# BlinkIT Grocery Data
+## Project Overview
+This project offers a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Excel.  The KPI's Requirements are to calculate:  
+- Overall revenue generated from all items sold
+- Average revenue per sale.
+- Total count of different items sold
+- Average customer rating for items sold
+
+  ## Dashboard
   
 
-### Project Overview (SQL)
+### Project Overview (Company Database Using SQL)
 
 This project demonstrates my work on a company database, utilizing SQL for various data operations and analysis. The primary objective was to efficiently manage and analyze the company's data, ensuring data integrity, optimizing queries, and providing actionable insights.
 
