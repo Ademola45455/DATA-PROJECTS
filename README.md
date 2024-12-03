@@ -33,8 +33,7 @@ This project offers a comprehensive analysis of Blinkit's sales performance, cus
 - Average customer rating for items sold
 
   ## Dashboard
-  
-
+![Dashboard](https://github.com/Ademola45455/DATA-PROJECTS/blob/main/Dashboard.png)
 ### Project Overview (Company Database Using SQL)
 
 This project demonstrates my work on a company database, utilizing SQL for various data operations and analysis. The primary objective was to efficiently manage and analyze the company's data, ensuring data integrity, optimizing queries, and providing actionable insights.
