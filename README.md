@@ -34,6 +34,75 @@ This project offers a comprehensive analysis of Blinkit's sales performance, cus
 
   ## Dashboard
 ![Dashboard](https://github.com/Ademola45455/DATA-PROJECTS/blob/main/Dashboard.png)
+
+
+## Data Source and Methodology
+For this analysis, I used data provided by Data Tutorials, which offers structured datasets for educational purposes. The data reflects transactional and sales activity for BlinkIT, an Indian last-minute grocery app.
+Here's a refined version of the data: [Dataset](https://docs.google.com/spreadsheets/d/1bKY8BXqaYwGrxBrJDp13jXndhVmIXxFh/edit?usp=drive_link&ouid=118278122332705089450&rtpof=true&sd=true
+) 
+### Tools Used: 
+- Excel, Pivot Table, VLOOKUP, Charts, and Graphs
+  
+I downloaded the dataset from Data Tutorials, which provides structured datasets for educational purposes. The data captures transactional information for BlinkIT, including sales performance, product categories, and outlet characteristics. The data was thoroughly cleaned to ensure accuracy, removing null values and empty datasets.
+The dataset was formatted to enhance readability and consistency, preparing it for analysis.
+A new Pivot Table worksheet was created to summarize key metrics.
+Using the formatted Pivot Table data, an interactive and visually appealing dashboard was designed in Excel.
+The dashboard includes slicers, KPIs, and graphs to enable dynamic filtering and insightful visualizations.
+Additional formatting techniques enhanced the aesthetics and usability of the dashboard.
+
+## Some Key Findings
+#### 1. Outlet Performance:
+Medium-Sized Outlets generate the highest revenue, accounting for 42% of total sales.
+High-Sized Outlets contribute 37%, and Small-Sized Outlets account for 21%, indicating that medium-sized outlets are the most efficient in terms of revenue generation. Slicer was also generated to easily navigate through outlets
+
+![Medium Sized Outletimage](https://github.com/Ademola45455/DATA-PROJECTS/blob/main/Medium.png)
+![Small Sized OutletImage](https://github.com/Ademola45455/DATA-PROJECTS/blob/main/small.png)
+![High Sized Outletimage](https://github.com/Ademola45455/DATA-PROJECTS/blob/main/High.png)
+
+#### 2. Product Category Insights:
+Fruits and Vegetables lead in sales with $178.1M, followed by Snack Foods ($175.4M) and Household Products ($136.0M). Other categories such as Frozen Foods and Dairy also show strong performance, suggesting a broad customer demand across product types.
+![Product category image](https://github.com/Ademola45455/DATA-PROJECTS/blob/main/Item%20type.png)
+
+#### 3. Regional Performance
+Tier 3 and Tier 2 locations significantly outperform Tier 1 in sales. Tier 1 locations show untapped growth potential, indicating the need for targeted strategies to boost performance in these areas.
+
+#### 4. Fat Content Preferences
+Regular products dominate the sales, making up 64.6% of the total, while Low-Fat products represent 35.4%. This highlights the consumer preference for regular products over health-conscious options, though there's room for growth in low-fat product marketing.
+![Fat Content Image](https://github.com/Ademola45455/DATA-PROJECTS/blob/main/fat%20content.png)
+
+## Data Insights for Strategic Decisions
+- **Focus on scaling Medium-Sized Outlets for maximum revenue.
+- **Invest in Tier 1 locations to tap into untapped market potential.
+- **Expand marketing for Low-Fat products to appeal to health-conscious consumers.
+
+  # Recommendations
+- Focus on expanding medium-sized outlets, as they generate the highest revenue.
+-  Optimize Tier 1 locations through targeted marketing to tap into their growth potential.
+-  Promote low-fat product lines to appeal to health-conscious consumers
+-  Increase focus on top-performing product categories like fruits and vegetables, snack foods, and household products.
+
+#### Disclaimer: The findings and recommendations presented in this analysis are based on the available dataset and may reflect trends and patterns specific to the time period and geographical scope of the data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Project Overview (Company Database Using SQL)
 
 This project demonstrates my work on a company database, utilizing SQL for various data operations and analysis. The primary objective was to efficiently manage and analyze the company's data, ensuring data integrity, optimizing queries, and providing actionable insights.
