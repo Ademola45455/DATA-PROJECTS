@@ -55,9 +55,7 @@ Additional formatting techniques enhanced the aesthetics and usability of the da
 Medium-Sized Outlets generate the highest revenue, accounting for 42% of total sales.
 High-Sized Outlets contribute 37%, and Small-Sized Outlets account for 21%, indicating that medium-sized outlets are the most efficient in terms of revenue generation. Slicer was also generated to easily navigate through outlets
 
-![Medium Sized Outletimage](https://github.com/Ademola45455/DATA-PROJECTS/blob/main/Medium.png)
-![Small Sized OutletImage](https://github.com/Ademola45455/DATA-PROJECTS/blob/main/small.png)
-![High Sized Outletimage](https://github.com/Ademola45455/DATA-PROJECTS/blob/main/High.png)
+![Medium Sized Outletimage](https://github.com/Ademola45455/DATA-PROJECTS/blob/main/Medium.png) ![Small Sized OutletImage](https://github.com/Ademola45455/DATA-PROJECTS/blob/main/small.png) ![High Sized Outletimage](https://github.com/Ademola45455/DATA-PROJECTS/blob/main/High.png)
 
 #### 2. Product Category Insights:
 Fruits and Vegetables lead in sales with $178.1M, followed by Snack Foods ($175.4M) and Household Products ($136.0M). Other categories such as Frozen Foods and Dairy also show strong performance, suggesting a broad customer demand across product types.
