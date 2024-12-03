@@ -53,9 +53,13 @@ Additional formatting techniques enhanced the aesthetics and usability of the da
 ## Some Key Findings
 #### 1. Outlet Performance:
 Medium-Sized Outlets generate the highest revenue, accounting for 42% of total sales.
-High-Sized Outlets contribute 37%, and Small-Sized Outlets account for 21%, indicating that medium-sized outlets are the most efficient in terms of revenue generation. Slicer was also generated to easily navigate through outlets
+High-Sized Outlets contribute 37%, and Small-Sized Outlets account for 21%, indicating that medium-sized outlets are the most efficient in terms of revenue generation. Slicer was also generated to easily navigate through each outlet size
 
-![Medium Sized Outletimage](https://github.com/Ademola45455/DATA-PROJECTS/blob/main/Medium.png) ![Small Sized OutletImage](https://github.com/Ademola45455/DATA-PROJECTS/blob/main/small.png) ![High Sized Outletimage](https://github.com/Ademola45455/DATA-PROJECTS/blob/main/High.png)
+High Outlet          |  Medium Outlet     |  Small Outlet
+:-------------------:|:--------------------|:--------------:
+![](High.png)         |     ![](Medium.png)     |      ![](small.png)
+
+
 
 #### 2. Product Category Insights:
 Fruits and Vegetables lead in sales with $178.1M, followed by Snack Foods ($175.4M) and Household Products ($136.0M). Other categories such as Frozen Foods and Dairy also show strong performance, suggesting a broad customer demand across product types.
@@ -69,9 +73,9 @@ Regular products dominate the sales, making up 64.6% of the total, while Low-Fat
 ![Fat Content Image](https://github.com/Ademola45455/DATA-PROJECTS/blob/main/fat%20content.png)
 
 ## Data Insights for Strategic Decisions
-- **Focus on scaling Medium-Sized Outlets for maximum revenue.
-- **Invest in Tier 1 locations to tap into untapped market potential.
-- **Expand marketing for Low-Fat products to appeal to health-conscious consumers.
+- Focus on scaling Medium-Sized Outlets for maximum revenue.
+- Invest in Tier 1 locations to tap into untapped market potential.
+- Expand marketing for Low-Fat products to appeal to health-conscious consumers.
 
   # Recommendations
 - Focus on expanding medium-sized outlets, as they generate the highest revenue.
@@ -79,7 +83,7 @@ Regular products dominate the sales, making up 64.6% of the total, while Low-Fat
 -  Promote low-fat product lines to appeal to health-conscious consumers
 -  Increase focus on top-performing product categories like fruits and vegetables, snack foods, and household products.
 
-#### Disclaimer: The findings and recommendations presented in this analysis are based on the available dataset and may reflect trends and patterns specific to the time period and geographical scope of the data
+# Disclaimer: The findings and recommendations presented in this analysis are based on the available dataset and may reflect trends and patterns specific to the time period and geographical scope of the data
 
 
 
