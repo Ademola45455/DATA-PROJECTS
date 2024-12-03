@@ -77,13 +77,14 @@ Regular products dominate the sales, making up 64.6% of the total, while Low-Fat
 - Invest in Tier 1 locations to tap into untapped market potential.
 - Expand marketing for Low-Fat products to appeal to health-conscious consumers.
 
-  # Recommendations
+ ##Recommendations
 - Focus on expanding medium-sized outlets, as they generate the highest revenue.
 -  Optimize Tier 1 locations through targeted marketing to tap into their growth potential.
 -  Promote low-fat product lines to appeal to health-conscious consumers
 -  Increase focus on top-performing product categories like fruits and vegetables, snack foods, and household products.
-
-# Disclaimer: The findings and recommendations presented in this analysis are based on the available dataset and may reflect trends and patterns specific to the time period and geographical scope of the data
+ ## Disclaimer: 
+The findings and recommendations presented in this analysis are based on the available dataset and may reflect trends and patterns specific to the period and geographical scope 
+of the data
 
 
 
