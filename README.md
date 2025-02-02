@@ -16,6 +16,7 @@ Thank you for visiting my portfolio, and I look forward to connecting with you! 
 ## Table of Contents
 - [BlinkIT Grocery Data](Excel)
 - [Company Database](SQL)
+- [Health Care Data Dashboard](Health-Care-Dashboard)
 - [Car Sales Analysis](Car-Sales-Analysis)
 - [Call Center Analysis](Call-Center-Analysis)
 - [Road Accident Analysis](Road-Accident-Analysis)
@@ -165,6 +166,53 @@ This project showcases my ability to design, manage, and analyze employee data u
 - [W3 Schools](https://www.w3schools.com/sql/sql_top.asp)
 
 
+
+# GreenData Health Analysis
+***
+![](https://github.com/Ademola45455/DATA-PROJECTS/blob/main/greeen.png)
+***
+
+## Objective:
+This Health Care Data Dashboard is an interactive Power BI report designed to provide insights into healthcare data. 
+
+#### Data Source
+The dataset for this challenge which was .CSV file came from @Greendatasolutions. It contained information on patient demographics, health conditions, admission details, and more. While comprehensive, the dataset had multiple issues, including:
+
+- Missing values in columns like Blood Type and Salary Status.
+- Duplicated entries in the Patient ID column.
+- Inconsstent date formats and data types.
+  The raw dataset is shown below :
+  ![](https://raw.githubusercontent.com/Ademola45455/DATA-PROJECTS/refs/heads/main/1_ylr_8hxaKuuXN66NiyhR6Q.webp)
+
+
+One of the most important aspects of this analysis is tracking patient admissions over time. I analyzed trends in patient admissions from 2019 to 2024 to identify key patterns and insights that could inform decision-making processes within the healthcare institution.
+
+![](https://github.com/Ademola45455/DATA-PROJECTS/blob/main/1_GuHg9L4it1WYGAGjjSysEg.webp)
+
+Tools & Technologies Used
+
+- Excel – Used extensively for data cleaning, transformation, and preparation.
+
+- PivotTables – For summarizing and analyzing healthcare data.
+
+- VLOOKUP & Excel Formulas – Used for data matching and transformation.
+
+- Power BI – For data visualization and interactive dashboard creation.
+
+- Power Query – Used for further data transformation within Power BI.
+
+![](https://github.com/Ademola45455/DATA-PROJECTS/blob/main/1_qgY3rJeEs2Adzh_vYVOrnQ.webp)
+
+Limitations in the Dataset
+While working on this dataset, I encountered several limitations:
+
+- Missing Values: Some columns, such as Blood Type and Salary Status, had missing entries, which required careful imputation to avoid bias.
+- Duplicate IDs: Duplicate Patient IDs posed challenges in distinguishing valid multi-visit cases from errors.
+- Data Quality Issues: Certain columns, like Salary Status, contained errors and invalid data types that required manual correction and validation.
+  
+# Conclusion
+
+Completing this challenge was a rewarding journey that deepened my skills in data cleaning and visualization. From sourcing raw data to delivering insights, I learned the value of clean, structured datasets in making informed decisions.
 
 
 # Car Sales Analysis
