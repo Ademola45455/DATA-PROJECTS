@@ -176,7 +176,12 @@ This project showcases my ability to design, manage, and analyze employee data u
 This Health Care Data Dashboard is an interactive Power BI report designed to provide insights into healthcare data. 
 
 #### Data Source
-The dataset for this challenge which was .CSV file came from @Greendatasolutions. It contained information on patient demographics, health conditions, admission details, and more. While comprehensive, the dataset had multiple issues, including:
+The dataset for this challenge which was .CSV file came from @Greendatasolutions. It contained information on patient demographics, health conditions, admission details, and more. While comprehensive, the dataset had multiple issues as displayed below : 
+
+  ![](https://github.com/Ademola45455/DATA-PROJECTS/blob/main/dirty_healthcare-data.csv)
+
+
+  
 
 - Missing values in columns like Blood Type and Salary Status.
 - Duplicated entries in the Patient ID column.
@@ -204,7 +209,7 @@ Tools & Technologies Used
 ![](https://github.com/Ademola45455/DATA-PROJECTS/blob/main/1_qgY3rJeEs2Adzh_vYVOrnQ.webp)
 
 Limitations in the Dataset
-While working on this dataset, I encountered several limitations:
+While working on this dataset, I encountered some limitations which included : 
 
 - Missing Values: Some columns, such as Blood Type and Salary Status, had missing entries, which required careful imputation to avoid bias.
 - Duplicate IDs: Duplicate Patient IDs posed challenges in distinguishing valid multi-visit cases from errors.
@@ -215,6 +220,120 @@ While working on this dataset, I encountered several limitations:
 Completing this challenge was a rewarding journey that deepened my skills in data cleaning and visualization. From sourcing raw data to delivering insights, I learned the value of clean, structured datasets in making informed decisions.
 
 
+
+# BI Insights Manager – Case Study:
+Hotel Revenue Management
+***
+
+![](https://github.com/Ademola45455/DATA-PROJECTS/blob/main/yusen.png)
+
+## Objective :
+To prepare a deep-dive analysis report in Power BI about the Hotel Revenue Management dataset and analyzes hotel revenue trends from 2018 to 2020, visualizing key metrics such as revenue, customer types, agent performance, and booking trends.
+# Requirements
+
+- Client does not want an Intro Page but suggests vertical/horizontal navigation bars or pop-up menu.
+- Preferred size 16:9. Not scrollable.
+- Client likes KPIs.
+- Client is very much interested in Time analysis exploration (Seasonality, Festive periods, weekday vs weekend etc)
+- Client is interested in Agent’s performance, overview.
+- Client is interested in any other insights providing further information on Customers type (family with children, single or couples visitors) etc.
+
+#### Data Source
+
+## 📂 Dataset Information  
+- **File:** `Hotel Revenue Task.xlsx`  
+- **Records:** 100K+ rows (2018–2020)  
+- **Key Columns:** `arrival_date_year`, `market_segment`, `customer_type`, `agent`, `reservation_status`, `lead_time`, `ADR`
+  
+  Skills / Concepts Demonstrated :
+The following PowerBi features were incorporated :
+- Bookmarking
+- Advance DAX
+- Formatting Visuals
+- Page navigation
+- Time Intelligence Fxn
+- Data Visualization
+
+🖥️ Dashboard Screenshot
+![](https://github.com/Ademola45455/DATA-PROJECTS/blob/main/1.png)
+
+📊 Key Insights
+- Total Revenue: $44.53M (split into weekdays & weekends)
+- Top Revenue-Generating Market Segment: Online Travel Agencies (OTA) with $22M
+- Customer Type Breakdown:
+- Transient Customers (Short Stay): 71.67%
+- Contract Customers: 23.02%
+- Group & Transient-Party Customers: <5%
+- Top Booking Months: August, October, September
+- Agent Performance: Evaluated based on total bookings & revenue
+- Booking Trend: 2019 had the highest bookings (79K), followed by 2020 drop due to possible market changes
+
+  4️⃣ Insights
+  1-  Revenue by Market Segment
+  - Online Travel Agencies (OTA) generate $22M revenue, dominating the market.
+  - Corporate and Direct bookings contribute significantly.
+ 2- Customer Type & Booking Status
+ - Transient Customers make up 71.67% of total bookings.
+ - Group bookings are significantly low.
+ - Yearly Booking Trend
+ - 2019 saw peak bookings (~79K), followed by a decline in 2020 (COVID-19 impact?).
+3-  Total Revenue Per Room Type
+ - Room D generated the highest revenue ($26M), indicating high demand.
+   
+## 📈 Power BI Features  
+✔ **Interactive dashboards & slicers** for Year, Market Segment, Customer Type, and Agent  
+✔ **DAX Calculations** for Revenue, Bookings, Cancellations, and Customer Segmentation  
+✔ **Branded with Yusen's Corporate Colors**
+
+## Recommendations
+ Improve Revenue Management Strategies
+✔ Dynamic Pricing: Adjust room prices based on demand trends (e.g., higher rates for peak months).
+✔ Reduce Cancellations which requires deposits or stricter cancellation policies for high-demand periods.
+✔ Optimize Room Allocation by Ensuring that reserved and assigned room types match to prevent revenue loss.
+✔ Improve Weekday & Weekend Revenue Strategies
+✔Attract more guests with weekend promotions (e.g., discounted spa packages).
+✔Target business travelers for extended weekend stays.
+
+# Otabel Biomedical Solutions Webinar Report
+
+***
+![](https://github.com/Ademola45455/DATA-PROJECTS/blob/main/otabel%201.png)
+
+## Objective:
+This Power BI dashboard provides insights into the participation, satisfaction ratings, and key challenges faced by graduates who attended the Otabel Biomedical Solutions webinar. The analysis helps in understanding engagement levels and potential areas for improvement in workforce transition.
+
+Key Insights:
+-  Total Participants: 47 attendees from 32 institutions.
+-  Top 5 Participating Institutions: United 4 Action had the highest engagement.
+-  Satisfaction Ratings: Majority were "Very Satisfied," indicating a positive experience.
+-  Prevalent Graduate Challenges
+
+Education-industry mismatch & Unemployment were the biggest concerns.
+Lack of mentorship & limited infrastructure were also key issues.
+✔ Workforce Transition Support:
+Mentorships & Internships are the most effective programs.
+
+Skills / Concepts Demonstrated :
+The following PowerBi skills were incorporated :
+- Bookmarking
+- DAX
+- Excel
+- Data Modelling
+- Power Query
+  
+## Recommendations
+- Leverage Social Media: We can enhance outreach via targeted campaigns and
+partnerships to boost engagement.
+-  Tackle Key Challenges: We can address education-industry gaps, promote internships,
+and provide skill-building workshops.
+-  Strengthen Institutional Ties: We can build mentorship programs with participating
+institutions and expand outreach.
+-  Gather Feedback: We can use detailed surveys to refine future webinars and address
+participant needs.
+-  Focus on Impact: We can still prioritize initiatives addressing mentorship and skill
+development for graduates.
+
+  
 # Car Sales Analysis
 ***
 ![](https://github.com/Ademola45455/DATA-PROJECTS/blob/main/INTRO.jfif)
